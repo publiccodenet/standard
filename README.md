@@ -19,6 +19,9 @@ The Standard for Public Code is in a draft format.
 We are preparing it for a version 1.0 release.
 Currently, we are testing it on a small number of codebases.
 
+> [!NOTE]
+> This repository is a downstream version of the community driven [Standard for Public Code](https://github.com/standard-for-public-code/standard-for-public-code/)
+
 ## Applying the Standard for Public Code to your codebase
 
 If you want to apply the Standard for Public Code to your codebase, just go ahead, it's an open standard and free for anyone to use.
