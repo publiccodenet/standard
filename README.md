@@ -20,7 +20,7 @@ We are preparing it for a version 1.0 release.
 Currently, we are testing it on a small number of codebases.
 
 > [!NOTE]
-> This repository is a downstream version of the community driven [Standard for Public Code](https://github.com/standard-for-public-code/standard-for-public-code/)
+> This repository is a downstream version of the community governed [Standard for Public Code](https://github.com/standard-for-public-code/standard-for-public-code/).
 
 ## Applying the Standard for Public Code to your codebase
 
